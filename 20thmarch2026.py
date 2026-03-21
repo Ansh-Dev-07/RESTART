@@ -102,3 +102,21 @@
 # obj1.show()
 # obj1.show_marks()
 
+# Implementing Polymorphism
+# class Animal:
+#     def sound(self):
+#         print("Random animal noises...")
+
+# class Dog(Animal):
+#     def sound(self):
+#         print("Dog Barks...")
+
+# class Cat(Animal):
+#     def sound(self):
+#         print("Cat Meows...")
+
+# d1=Dog()
+# c1=Cat()
+# d1.sound()
+# c1.sound()
+
