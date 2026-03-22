@@ -76,7 +76,7 @@
 
 # list1=["a","A","b","B"]
 
-## list1=[i.lower() for i in list1] #list comprehension
+# list1=[i.lower() for i in list1] #list comprehension
 
 # lower_list=[]
 # for i in list1:
